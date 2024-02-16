@@ -27,7 +27,7 @@
 
 ### 🦊 Backend (learning)
 <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Spring Security&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/> 
 
 ### 👀 RDBMS 
 <img src="https://img.shields.io/badge/MySQL-D71F00?style=flat-square&logo=MySQL&logoColor=white"/> 
