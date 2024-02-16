@@ -3,6 +3,15 @@
 ### 🍄 Do your best and do something worthwhile
 ### It's my view of life and my motto!! 🍄
 
+
+- 🔭 I'm a developer and a college student
+- 🌱 I’m currently learning computer science at SangMyung university
+- 👯 I’m looking to collaborate on friend, professor, a member of a club
+- 😄 MBTI : ISFJ
+- ⚡ Fun fact: music, traveling, a conversation with people who are into something.. etc
+
+# 🎯 Tech Stack 
+
 ### 🦾 Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-1071D3?style=flat-square&logo=Joplin&logoColor=white"/>
@@ -24,10 +33,4 @@
 ### 💢 Certificate
 <img src="https://img.shields.io/badge/Computer lieracy level 2-FFB13B?style=flat-square&logo=SVG&logoColor=white"/> 
 
-
-- 🔭 I'm a developer and a college student
-- 🌱 I’m currently learning computer science at SangMyung university
-- 👯 I’m looking to collaborate on friend, professor, a member of a club
-- 😄 MBTI : ISFJ
-- ⚡ Fun fact: music, traveling, a conversation with people who are into something.. etc
 
