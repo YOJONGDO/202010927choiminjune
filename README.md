@@ -12,6 +12,9 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/be_seeder/)
 [<img src="https://img.shields.io/badge/Gmail-004788?style=flat-square&logo=Gmail&logoColor=white"/>](https://www.gmail.com)
 [<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://www.naver.com)
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/ko-kr)
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/ko-kr)
+[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@minjune0807/posts)
 
 # 🎯 Tech Stack 
 
