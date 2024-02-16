@@ -32,6 +32,9 @@
 ### 👀 RDBMS 
 <img src="https://img.shields.io/badge/MySQL-D71F00?style=flat-square&logo=MySQL&logoColor=white"/> 
 
+### 🎆 DevOps
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+
 ### 👅 AI
 <img src="https://img.shields.io/badge/DeepL-0F2B46?style=flat-square&logo=DeepL&logoColor=white"/> <img src="https://img.shields.io/badge/MachL-339AF0?style=flat-square&logo=Mantine&logoColor=white"/> 
 
