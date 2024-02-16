@@ -2,13 +2,16 @@
 
 ### 🍄 Do your best and do something worthwhile
 ### It's my view of life and my motto!! 🍄
-
-
 - 🔭 I'm a developer and a college student
 - 🌱 I’m currently learning computer science at SangMyung university
 - 👯 I’m looking to collaborate on friend, professor, a member of a club
 - 😄 MBTI : ISFJ
 - ⚡ Fun fact: music, traveling, a conversation with people who are into something.. etc
+
+# Minjune's Github
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/be_seeder/)
+[<img src="https://img.shields.io/badge/Gmail-004788?style=flat-square&logo=Gmail&logoColor=white"/>](https://www.gmail.com)
+[<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://www.naver.com)
 
 # 🎯 Tech Stack 
 
