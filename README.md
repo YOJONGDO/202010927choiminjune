@@ -1,16 +1,16 @@
-### Hi i'm potato 👋
+# Hi i'm a talking potato. 👋
 
-<!--
-**202010927choiminjune/202010927choiminjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🍄 Do your best and do something worthwhile
+### It's my view of life and my motto!! 🍄
 
-Here are some ideas to get you started:
+### 🦾 SKills
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I'm a developer and a college student
+- 🌱 I’m currently learning computer science at SangMyung university
+- 👯 I’m looking to collaborate on friend, professor, a member of a club
+- 😄 MBTI : ISFJ
+- ⚡ Fun fact: music, traveling, a conversation with people who are into something.. etc
+
