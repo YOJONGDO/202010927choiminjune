@@ -18,6 +18,9 @@
 ### 👀 RDBMS 
 <img src="https://img.shields.io/badge/MySQL-D71F00?style=flat-square&logo=MySQL&logoColor=white"/> 
 
+### 👅 AI
+<img src="https://img.shields.io/badge/DeepL-0F2B46?style=flat-square&logo=DeepL&logoColor=white"/> <img src="https://img.shields.io/badge/MachL-339AF0?style=flat-square&logo=Mantine&logoColor=white"/> 
+
 ### 💢 Certificate
 <img src="https://img.shields.io/badge/Computer lieracy level 2-FFB13B?style=flat-square&logo=SVG&logoColor=white"/> 
 
