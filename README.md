@@ -1,4 +1,12 @@
 # Hi i'm a talking potato. 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20My%20Coding%20Story&fontSize=60)
+
+# Minjune's Github
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/be_seeder/)
+[<img src="https://img.shields.io/badge/Gmail-004788?style=flat-square&logo=Gmail&logoColor=white"/>](https://www.gmail.com)
+[<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://www.naver.com)
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/ko-kr)
+[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@minjune0807/posts)
 
 ### 🍄 Do your best and do something worthwhile
 ### It's my view of life and my motto!! 🍄
@@ -7,13 +15,6 @@
 - 👯 I’m looking to collaborate on friend, professor, a member of a club
 - 😄 MBTI : ISFJ
 - ⚡ Fun fact: music, traveling, a conversation with people who are into something.. etc
-
-# Minjune's Github
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/be_seeder/)
-[<img src="https://img.shields.io/badge/Gmail-004788?style=flat-square&logo=Gmail&logoColor=white"/>](https://www.gmail.com)
-[<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://www.naver.com)
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/ko-kr)
-[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@minjune0807/posts)
 
 # 🛠️ Tools
 
