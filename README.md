@@ -47,4 +47,3 @@
 # 💢 Certificate
 <img src="https://img.shields.io/badge/Computer lieracy level 2-FFB13B?style=flat-square&logo=SVG&logoColor=white"/> 
 
-[![202010927choiminjune's GitHub stats](https://github-readme-stats.vercel.app/api?username=202010927choiminjune)](https://github.com/anuraghazra/github-readme-stats)
