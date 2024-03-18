@@ -47,4 +47,4 @@
 # 💢 Certificate
 <img src="https://img.shields.io/badge/Computer lieracy level 2-FFB13B?style=flat-square&logo=SVG&logoColor=white"/> 
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=202010927choiminjune&show_icons=true&locale=en&layout=compact" alt="202010927choiminjune" />
