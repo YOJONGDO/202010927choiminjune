@@ -1,3 +1,18 @@
+
+<h1 style="font-family: 'Arial', sans-serif; color: #FF6347; text-align: center; font-size: 48px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); background-color: #FFF8DC; padding: 20px; border-radius: 10px; border: 2px solid #FF4500;">
+    Hi i'm a talking potato. 👋
+</h1>
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/5e9cdb1f-1287-48b5-80e2-c8ffd7851175" />
+<br></br>
+
+<!--<br>-->
+
+
+
+<!--
 # Hi i'm a talking potato. 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20My%20Coding%20Story&fontSize=60)
 
@@ -48,3 +63,5 @@
 <img src="https://img.shields.io/badge/Computer lieracy level 2-FFB13B?style=flat-square&logo=SVG&logoColor=white"/> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=202010927choiminjune&show_icons=true&locale=en&layout=compact" alt="202010927choiminjune" />
+-->
+
